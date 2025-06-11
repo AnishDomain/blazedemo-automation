@@ -23,8 +23,8 @@ Modules automnated for the site:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AnishDomain/saucedemo-automation.git
-   cd saucedemo-automation
+   git clone https://github.com/AnishDomain/blazedemo-automation.git
+   cd blazedemo-automation
 
 
 2.Install dependencies:
