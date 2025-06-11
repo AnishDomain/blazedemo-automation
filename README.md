@@ -7,7 +7,7 @@ This project uses Plawright to perform end-to-end testing of a web application. 
 
 Features
 
-- Automated end-to-end tests using Cypress
+- Automated end-to-end tests using Playwright.
 - Page object pattern support 
 - Fixtures for test data
 - Cross-browser testing (Chrome, Edge, Firefox)
