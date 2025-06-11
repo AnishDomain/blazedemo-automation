@@ -1,8 +1,8 @@
-saucedemo site automation
+Blazedemo site automation
 
 URL:https://demoblaze.com/index.html
 
-This project uses Plawright to perform end-to-end testing of a web application. It demonstrates best practices for writing, organizing, and running automated UI tests with Cypress.
+This project uses Plawright to perform end-to-end testing of a web application. It demonstrates best practices for writing, organizing, and running automated UI tests with Playwright.
 
 
 Features
